@@ -19,7 +19,7 @@ Copy code
 git clone https://github.com/stevsharp/SimplePluginArchitecture.git
 Build the Solution: Open the solution in your preferred IDE (Visual Studio, JetBrains Rider, etc.) and build the solution to compile the code.
 
-Create Plugins: Create one or more plugins by implementing the IPlugin interface provided by Simple Plugin Architecture. Each plugin should be compiled into a separate assembly (DLL).
+Create Plugins: Create one or more plugins by implementing the IStartup interface provided by Simple Plugin Architecture. Each plugin should be compiled into a separate assembly (DLL).
 
 Configure the Host Application: Configure your host application to use Simple Plugin Architecture by adding references to the necessary assemblies and implementing the logic for discovering, loading, and interacting with plugins.
 
