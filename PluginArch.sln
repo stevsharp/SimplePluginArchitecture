@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginArch", "PluginArch\PluginArch.csproj", "{42314965-B78C-46F0-BDF1-919AC0E2EC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleTest", "ModuleTest\ModuleTest.csproj", "{229D8440-F0F4-436A-8889-CC183C4B3CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D6D99476-7000-4182-B43B-6E61D26C1F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42314965-B78C-46F0-BDF1-919AC0E2EC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42314965-B78C-46F0-BDF1-919AC0E2EC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42314965-B78C-46F0-BDF1-919AC0E2EC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42314965-B78C-46F0-BDF1-919AC0E2EC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229D8440-F0F4-436A-8889-CC183C4B3CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229D8440-F0F4-436A-8889-CC183C4B3CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229D8440-F0F4-436A-8889-CC183C4B3CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229D8440-F0F4-436A-8889-CC183C4B3CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D99476-7000-4182-B43B-6E61D26C1F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D99476-7000-4182-B43B-6E61D26C1F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D99476-7000-4182-B43B-6E61D26C1F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D99476-7000-4182-B43B-6E61D26C1F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B93B1E43-4EB8-4B50-A510-D670CA32F681}
+	EndGlobalSection
+EndGlobal
