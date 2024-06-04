@@ -1,10 +1,10 @@
-Simple Plugin Architecture
+## Simple Plugin Architecture
 Simple Plugin Architecture is a lightweight framework for building extensible applications using a plugin-based architecture.
 
-Overview
+## Overview
 The Simple Plugin Architecture allows developers to extend the functionality of their applications by dynamically loading and integrating plugins at runtime. It provides a simple and flexible way to add new features or modify existing ones without modifying the core application code.
 
-Features
+## Features
 Dynamic loading of plugins
 Plugin discovery and instantiation
 Plugin lifecycle management
@@ -12,7 +12,7 @@ Versioning and compatibility support
 Getting Started
 To get started with Simple Plugin Architecture, follow these steps:
 
-Clone the Repository: Clone the SimplePluginArchitecture repository to your local machine.
+## Clone the Repository: Clone the SimplePluginArchitecture repository to your local machine.
 
 bash
 Copy code
@@ -28,7 +28,7 @@ Run the Application: Run your host application, and it should dynamically load a
 Example
 Here's a simple example of how you might use Simple Plugin Architecture in your application:
 
-csharp
+## csharp
 Copy code
 // TODO: Add example code
 Contributing
